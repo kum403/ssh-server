@@ -1,0 +1,5 @@
+@echo off
+
+:start
+cloudflared.exe service install eyJhIjoiNDUzMDA5YTYyMTg3YzgwN2MwYzU5MDc1Yzg3ZGIwMjkiLCJ0IjoiYzE0MzY5NmYtZmQ1Ni00NmRlLTg0YTktMGE0ODUyYjJhYzBhIiwicyI6Ik56STNPR0UwWVRNdE4yVXlNaTAwT0RNd0xXRTJNRGd0WlRFeVpXRmhOVGcwTVRjeiJ9
+goto start
